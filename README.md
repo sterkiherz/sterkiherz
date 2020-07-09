@@ -6,12 +6,13 @@
 
 ![My Banner](https://i.imgur.com/1E1mqlg.png)
 
+<img align="left" src="https://i.imgur.com/C4MjKiH.gif">
+
 ###### Hey! I'm Sterki Herz, but you can also call me Waffles~ | She/Her
 > *I am an artist as a hobby and sometimes I code!*
 > *I love RPG videogames and food! I am working on a Comic (Webtoon/Tapas) and a Visual Novel (Itch.io), and many other projects.*
 > *Feel free to check out my Links! Love you :3*
 ---
-
 <img align="left" src="https://i.imgur.com/kKvDadx.png">
 
 ### Some Links:

@@ -11,6 +11,9 @@
 > *I love RPG videogames and food! I am working on a Comic (Webtoon/Tapas) and a Visual Novel (Itch.io), and many other projects.*
 > *Feel free to check out my Links! Love you :3*
 ---
+
+<img align="left" src="https://i.imgur.com/kKvDadx.png">
+
 ### Some Links:
 * :seedling: [Art PortFolio](http://sterkiherzart.weebly.com)
 * :seedling: [Comic - Webtoons](https://www.webtoons.com/en/challenge/miraclewish/list?title_no=210761)

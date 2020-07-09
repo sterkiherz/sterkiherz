@@ -21,3 +21,5 @@
 * :cake: **Discord** - *sterkiherz#7005*
 * :cake: [Twitter](https://twitter.com/sterkiherz)
 * :cake: [Tumblr](https://sterkiherz.tumblr.com)
+
+[![Buy me a Coffee~](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://ko-fi.com/sterkiherz) 

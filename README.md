@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**sterkiherz/sterkiherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sterkiherz/sterkiherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒!
+
+![My Banner](https://i.imgur.com/1E1mqlg.png)

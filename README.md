@@ -16,7 +16,7 @@
 <img align="left" src="https://i.imgur.com/kKvDadx.png">
 
 ### Some Links:
-* :seedling: [Art PortFolio](http://sterkiherzart.weebly.com)
+* :seedling: [Art PortFolio](https://sterkiherz.wixsite.com/portfolio)
 * :seedling: [Comic - Webtoons](https://www.webtoons.com/en/challenge/miraclewish/list?title_no=210761)
 * :seedling: [Comic - Tapas](https://tapas.io/series/Miraclewish)
 * :seedling: [My itch.io - Projects](https://sterkiherz.itch.io/)

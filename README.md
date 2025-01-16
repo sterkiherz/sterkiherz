@@ -13,7 +13,7 @@
 > *I love fantasy, RPGs and sweets! I am working on a Comic (Webtoon/Tapas) and a Visual Novel (Itch.io), and many other projects.*
 > *Feel free to check out my Links! Love you :3*
 ---
-<img align="left" src="https://i.imgur.com/kKvDadx.png">
+<img align="left" src="https://i.ibb.co/x6F56qz/window-icon.png">
 
 ### Some Links:
 * :seedling: [Art Blog](https://sterkiherz.tumblr.com/)

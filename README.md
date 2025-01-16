@@ -3,9 +3,6 @@
 -->
 
 # ✦ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒! ✦</h1>
-
-![My Banner](https://i.imgur.com/d1gfise.png)
-
 <img align="left" src="https://i.imgur.com/C4MjKiH.gif">
 
 ###### Hey! I'm Sterki Herz, but you can also call me Waffles~ | She/Her

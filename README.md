@@ -13,7 +13,8 @@
 <img align="left" src="https://i.ibb.co/x6F56qz/window-icon.png">
 
 ### Some Links:
-* :seedling: [Art Blog](https://sterkiherz.tumblr.com/)
+* :seedling:![Static Badge](https://img.shields.io/badge/ArtBlog-white?style=flat-square&logo=adafruit&logoColor=%23FFFF66&logoSize=auto&color=%23FFA500)
+ [Art Blog](https://sterkiherz.tumblr.com/)
 * :seedling: [My itch.io - Projects](https://sterkiherz.itch.io/)
 
 ### Support Me!

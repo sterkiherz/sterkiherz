@@ -22,6 +22,3 @@
 [![Buy me a Coffee~](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://ko-fi.com/sterkiherz) 
 
 ---
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@sterkiherz3618/30-nites-of-code)  
-  ![@sterkiherz3618 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sterkiherz3618)
